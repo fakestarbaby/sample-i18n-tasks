@@ -13,3 +13,5 @@ gem 'jbuilder', '~> 1.2'
 group :doc do
   gem 'sdoc', require: false
 end
+
+gem 'i18n-tasks'
